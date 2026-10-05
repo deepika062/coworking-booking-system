@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/
+
+# assignment brief (not part of the submission)
+NF-*.pdf
